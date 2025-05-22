@@ -8,8 +8,6 @@
 
 ## Sobre Mim
 
-<img align="right" height="190" src="https://cdn.pixabay.com/animation/2024/04/25/19/52/19-52-51-662_512.gif">
-
 Sou uma estudante de Redes de Computadores do SENAI de informtica, onde tive contato com as principais tecnologias de Cloud como AWS e Azure, e putras ferramentas como VMWare, Zabbix, Grfana, e principalmente com equipamentos Cisco. 
 
 <br>
@@ -21,8 +19,20 @@ Sou uma estudante de Redes de Computadores do SENAI de informtica, onde tive con
 ## Tech Stack 
 
 <p align="center"> 
-  <img src ="https://skillicons.dev/icons?ilinux,aws,azure,windows,nginx,zabbix,grafana">
+  <img src ="https://skillicons.dev/icons?i=linux,aws,azure,windows,nginx,grafana,arduino,debian">
 </p>
 
-</p>
-<p align="center">
+
+
+
+## 🥇Certificações 
+| Certificação | Nome |
+| --- | --- |
+| ![CISCO- ITN](https://img.shields.io/badge/CISCO_Introduction_To_Network-t?style=flat&logo=CISCO&logoSize=amg&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F30714c87-75a6-4364-b02d-d736041decea%2Flinked_in_profile) | CISCO - Introduction To Network
+| ![CISCO- RTS](https://img.shields.io/badge/CISCO_Switching%2C_Routing%2C_and%20_Wireless_Essentials-t?style=flat&logo=CISCO&logoSize=amg&color=black) | CISCO - Switching, Routing, and Wireless Essentials
+| ![CISCO- NSA](https://img.shields.io/badge/CISCO_Enterprise_Networking%2C_Security%2C_and_Automation-t?style=flat&logo=CISCO&logoSize=amg&color=black) | CISCO - Enterprise Networking, Security, and Automation
+| ![AWS- CDP](https://img.shields.io/badge/AWS_Cloud_Pratictioner-t?style=flat&logo=amazonwebservices&logoSize=amg&color=black) | AWS - Cloud Pratictioner
+| ![AWS- CDVP](https://img.shields.io/badge/AWS_Cloud_Developing-t?style=flat&logo=amazonwebservices&logoSize=amg&color=black) | AWS - Cloud Developing
+   
+   
+   
